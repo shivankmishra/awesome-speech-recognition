@@ -1,9 +1,3 @@
-<!-- <div markdown="1">
-    <h1 align="center">
-        <img src="https://i.imgur.com/AH4MxeB.png" width="10%"><br/>💬 Awesome Speech Recognition
-    </h1>
-</div> -->
-
 # 💬 Awesome Speech Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://i.imgur.com/AH4MxeB.png" width="125" align="right" alt="Speech Recognition Icon">
 
 This is a collection of speech recognition papers, books, software, and other resources.
@@ -12,24 +6,24 @@ This is a collection of speech recognition papers, books, software, and other re
 
 ## Contents
 
-* [Papers](#papers)
-* [Software](#software)
-* [Articles](#articles)
-* [Books](#books)
-* [Research Groups](#research-groups)
-* [Video Lectures](#video-lectures)
+* Papers
+* Software
+* Articles
+* Books
+* Research Groups
+* Video Lectures
 
-## Papers (#papers)
+## Papers
 
-## Software (#software)
+## Software
 
-## Articles (#articles)
+## Articles
 
-## Books (#books)
+## Books
 
-## Research Groups (#research-groups)
+## Research Groups
 
-## Video Lectures (#video-lectures)
+## Video Lectures
 
 ## License
 
